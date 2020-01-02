@@ -1,5 +1,3 @@
-From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
-
 This is my version of the Google homepage.
 
 I created the top row first as two separate groupings that float left and right, respectively. I then added the image, text input, and search buttons, centering them and sizing them as best I could looking at the homepage for input. I then added a bottom row, also using the float property.
